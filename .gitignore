@@ -1,0 +1,69 @@
+# Ignore build artifacts and temporary files
+buildroot/output/
+buildroot/build/
+buildroot/dl/
+buildroot/.config
+buildroot/Config.in
+buildroot/*.log
+buildroot/.stamp_*
+buildroot/.patches_applied
+
+# Ignore common system files and editor/IDE artifacts
+*.swp
+*.swo
+*.tmp
+*.bak
+*.log
+*.DS_Store
+*.vscode/
+*.vscode-server/
+*.idea/
+*.iml
+
+# Ignore compiled object files and binaries
+*.o
+*.out
+*.elf
+*.bin
+
+# Ignore executables and libraries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore capture_app compiled binaries
+capture_app/*.o
+capture_app/*.out
+capture_app/*.elf
+capture_app/*.bin
+capture_app/*.exe
+capture_app/Makefile
+
+# Ignore other specific temporary or generated files
+*.a
+*.la
+*.lo
+*.loT
+*.rej
+*.orig
+*.gch
+*~
+
+# Ignore Python bytecode files (if applicable)
+__pycache__/
+*.py[cod]
+
+# Ignore directories/files for package manager caches
+node_modules/
+bower_components/
+.cargo/
+target/
+vendor/
+
+# Ignore application-specific settings or temporary files
+settings.json
+config.json
+db.sqlite3
+*.log
+.env
