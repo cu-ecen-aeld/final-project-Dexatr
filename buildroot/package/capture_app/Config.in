@@ -1,0 +1,4 @@
+config BR2_PACKAGE_CAPTURE_APP
+    bool "capture_app"
+    help
+      This is the capture application for image processing.

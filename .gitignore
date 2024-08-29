@@ -49,7 +49,6 @@ capture_app/*.out
 capture_app/*.elf
 capture_app/*.bin
 capture_app/*.exe
-capture_app/Makefile
 capture_app/.*
 capture_app/*.log
 
