@@ -1,5 +1,5 @@
 ## Main System Repository
-Link to [Main System repository](https://github.com/cu-ecen-aeld/final-project-Dexatr)
+Link to [Main System Repository](https://github.com/cu-ecen-aeld/final-project-Dexatr)
 
 ## Project Overview
 Link to [Project Overview](https://github.com/cu-ecen-aeld/final-project-Dexatr/wiki/Project-Overview)
